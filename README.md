@@ -15,3 +15,4 @@
 - ⚡ Fun fact: ...
 -->
 ![Gatinho dançando](https://media.giphy.com/media/12VqFoZE1QUnw4/giphy.gif)
+<img src="https://media.giphy.com/media/12VqFoZE1QUnw4/giphy.gif" width="300" alt="Gatinho dançando">
