@@ -2,7 +2,7 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite
+    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite UTC
   workflow_dispatch:
 
 jobs:
