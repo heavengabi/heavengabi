@@ -1,6 +1,4 @@
 ## Oi
-![Minha GIF divertida](xiaonailong.gif)
-
 <div align="right">
   <img src="xiaonailong.gif" width="200"/>
 </div>
