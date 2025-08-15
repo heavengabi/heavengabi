@@ -1,7 +1,5 @@
 ## Oi
-<div align="right">
-  <img src="xiaonailong.gif" width="200"/>
-</div>
+![Minha GIF divertida](animacao.gif)
 
 <div style="margin-top: 20px;">
   
